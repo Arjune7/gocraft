@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "voxel-engine/frontend/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
