@@ -15,5 +15,6 @@ bin/
 *.prof
 vendor/
 
-# OS files
+# extra files
 .DS_Store
+.vscode
